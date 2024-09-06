@@ -1,0 +1,2 @@
+# whackamole
+whackamole browser game
